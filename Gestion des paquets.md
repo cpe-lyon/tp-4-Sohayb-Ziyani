@@ -36,3 +36,8 @@ et
 ```
 apt list -i | wc -l 
 ```
+![image](https://user-images.githubusercontent.com/80455771/192154497-f784257f-fd7b-43ff-a62c-640593c8571d.png)
+
+Cette petite différence s'explique par le fait que apt utilise en arrière plan dpkg quand il fait une installation à la juste différence que apt gère les dépendances contrairement à dpkg et donc compte un paquet installé en plus.
+
+
