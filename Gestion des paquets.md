@@ -106,5 +106,28 @@ linuxuprising-ubuntu-java-jammy.list
 
 ## Exercice 7 
 
+- Installation pour clôner le dépôt dit :
+
+![image](https://user-images.githubusercontent.com/80455771/192221042-dcdd7e1c-b6a1-46a2-8f2a-482513517101.png)
+
+- Les différentes installation grâce au fichier 'README.md' : 
+
+![image](https://user-images.githubusercontent.com/80455771/192221465-60241203-2ff4-47ed-b9cb-390a791cbf01.png)
+
+![image](https://user-images.githubusercontent.com/80455771/192221990-7aa2fd97-f05d-49cc-aecc-f8d69cf5d659.png)
+
+
+![image](https://user-images.githubusercontent.com/80455771/192221532-821a4273-ddca-4eac-ab7f-9792eb1c7527.png)
+
+![image](https://user-images.githubusercontent.com/80455771/192221719-2aa733ef-f8d7-4edb-8ea7-8b2b621c0a67.png)
+
+![image](https://user-images.githubusercontent.com/80455771/192221799-f04c0be5-9d87-4cd2-b81a-92d76ca5f526.png)
+
+Et on lance le programme `cbonsai`
+
+![image](https://user-images.githubusercontent.com/80455771/192222055-2a87e5a9-de87-4317-88f6-4d802c5bc411.png)
+
+## Exercice 8 
+
 
 
