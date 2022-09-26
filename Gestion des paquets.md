@@ -70,3 +70,5 @@ Le script :
 
 echo $(dpkg -S $1 |grep "/$1$"
 ```
+
+## Exercice 3 
