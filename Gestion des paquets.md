@@ -141,6 +141,26 @@ Voici le contenu du fichier `control` :
 
 ![image](https://user-images.githubusercontent.com/80455771/192236597-353babda-e3c7-4e4a-a176-3bcef12fd95b.png)
 
+Construction du paquet :
+
+![image](https://user-images.githubusercontent.com/80455771/192245912-51232bd1-d53e-48c4-b707-706ad02c6968.png)
+
+
+## Création du dépôt personnel avec reprepro 
+
+Création du dossier repo-cpe ainsi que le dossier conf et le dossier packages dans ce dernier :
+
+![image](https://user-images.githubusercontent.com/80455771/192246672-b056a4e4-211f-4527-b2c0-0a5cdf3c33ca.png)
+
+Fichier distributions :
+
+![image](https://user-images.githubusercontent.com/80455771/192247344-c0e3861d-4d48-4864-b4ca-561ea3cedb54.png)
+
+
+
+
+
+
 
 
 
