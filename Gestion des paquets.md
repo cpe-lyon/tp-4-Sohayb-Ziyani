@@ -50,12 +50,12 @@ apt list | wc -l
 ```
 
 
-### 7. - Le paquet glances sert à afficher le maximum d'informations dans un minimum de places ainsi que des informations supplémentaires 
+### 7. - Le paquet glances sert à afficher le maximum d'informations dans un minimum de places ainsi que des informations supplémentaires :
    - Le tldr permet d'avoir des pages du manuel simplifié et géré par la communauté
    - Le paquet hollywood permet de simuler une fenêtre de hacking comme au cinéma 
 
 
-### 8. Le paquet qui permet de jouer au sudoku est le paquet `ksudoku`
+### 8. Le paquet qui permet de jouer au sudoku est le paquet : `ksudoku`
 
 
 ## Exercice 2 
@@ -72,3 +72,19 @@ echo $(dpkg -S $1 |grep "/$1$"
 ```
 
 ## Exercice 3 
+
+Commande qui affiche “INSTALLÉ” ou “NON INSTALLÉ” selon le nom et le statut du package
+spécifié dans cette commande :
+```
+dpkg -l "nom_du_package" 2>/dev/null | grep "ii" && echo "Installé || echo "Non installé"
+```
+Exemple avec un paquet aléatoire et le paquet Hollywood :
+
+
+![image](https://user-images.githubusercontent.com/80455771/192210392-83789ca4-f8a7-4e6c-9c48-e348d853b87a.png)
+
+## Exercice 4 
+
+
+
+
