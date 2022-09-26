@@ -68,7 +68,7 @@ Le script :
 ```console
 #!/bin/bash
 
-echo $(dpkg -S $1 |grep "/$1$"
+echo $(dpkg -S $1 | grep "/$1$")
 ```
 
 ## Exercice 3 
