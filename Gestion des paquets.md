@@ -90,5 +90,21 @@ dpkg -L coreutils
 ```
 Le programme "[" est l'équivalent de la commande 'test'. C'est ce qu'on utilise dans les scripts pour les conditions. 
 
+## Exercice 5 
+
+- Emacs est un éditeur de texte 
+- Lynx est un navigateur web en mode texte 
+
+## Exercice 6
+
+Un nouveau fichier a été installé et il s'appelle :
+```
+linuxuprising-ubuntu-java-jammy.list
+```
+
+![image](https://user-images.githubusercontent.com/80455771/192216733-a38af22a-c9cc-418a-a6a3-84ed7ad9a87e.png)
+
+## Exercice 7 
+
 
 
