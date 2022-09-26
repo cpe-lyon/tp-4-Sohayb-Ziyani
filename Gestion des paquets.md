@@ -84,7 +84,11 @@ Exemple avec un paquet aléatoire et le paquet Hollywood :
 ![image](https://user-images.githubusercontent.com/80455771/192210392-83789ca4-f8a7-4e6c-9c48-e348d853b87a.png)
 
 ## Exercice 4 
-
+On peut voir les programmes livrés avec la commande coreutils grâce à la commande :
+```
+dpkg -L coreutils
+```
+Le programme "[" est l'équivalent de la commande 'test'. C'est ce qu'on utilise dans les scripts pour les conditions. 
 
 
 
