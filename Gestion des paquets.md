@@ -128,6 +128,24 @@ Et on lance le programme `cbonsai`
 ![image](https://user-images.githubusercontent.com/80455771/192222055-2a87e5a9-de87-4317-88f6-4d802c5bc411.png)
 
 ## Exercice 8 
+Les différentes arbrorescence :
+ - Pour le chemin `origine-commande/debian/control` :
+ 
+![image](https://user-images.githubusercontent.com/80455771/192236881-2cb25c09-272b-4eaf-9c57-5ffb6f0b22a0.png)
+
+ - Pour le chemin `origine-commande/usr/local/bin` :
+ 
+ ![image](https://user-images.githubusercontent.com/80455771/192237452-819dfe7b-2b64-49e6-ae41-6042c49b4f59.png)
+
+Voici le contenu du fichier `control` :
+
+![image](https://user-images.githubusercontent.com/80455771/192236597-353babda-e3c7-4e4a-a176-3bcef12fd95b.png)
+
+
+
+
+
+
 
 
 
