@@ -156,6 +156,12 @@ Fichier distributions :
 
 ![image](https://user-images.githubusercontent.com/80455771/192247344-c0e3861d-4d48-4864-b4ca-561ea3cedb54.png)
 
+Copie du fichier `origine-commande.deb` dans le dossier packages et à la racine :
+
+![image](https://user-images.githubusercontent.com/80455771/192264878-3c7902de-a51f-46e2-875d-be8eef47c8fc.png)
+
+![image](https://user-images.githubusercontent.com/80455771/192264931-bb312a19-a20f-4cc3-b3f8-9e49fe1dc56c.png)
+
 
 
 
